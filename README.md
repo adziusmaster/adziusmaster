@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrzej
 - 👀 I’m interested in creating beautiful and useful things
-- 🌱 I’m currently learning python, js, c#, react and ts!
+- 🌱 I’m currently learning react, typescript and c#!
 
 <!---
 adziusmaster/adziusmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
